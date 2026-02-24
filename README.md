@@ -1,131 +1,114 @@
+<!-- ================= DYNAMIC SVG HEADER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=200&section=header&text=zonesurtech@core:~$&fontSize=30&fontColor=00ff99&animation=fadeIn" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=200&section=header&text=zonesurtech@core:~$&fontSize=30&fontColor=00ff99&animation=fadeIn" />
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:e0e0e0&height=200&section=header&text=zonesurtech@core:~$&fontSize=30&fontColor=000000&animation=fadeIn" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=zonesurtech@core:~$&fontSize=30" />
+  </picture>
 </p>
 
 ```bash
-booting profile...
-initializing SaaS core modules...
-loading AI automation engine...
-establishing secure API connections...
+boot sequence initialized...
+loading SaaS architecture...
+initializing AI automation modules...
 system status: ONLINE ✔
 ```
 
 ---
 
-# 🖥 TERMINAL INTERFACE
+# 🖥 TERMINAL PROFILE
 
 ```bash
 zonesurtech@core:~$ whoami
 José Santiago Delgado Leiva
 
 zonesurtech@core:~$ role
-SaaS Architect / AI Automation Engineer / Full Stack Systems Builder
+SaaS Architect / AI Automation Engineer / Full Stack Developer
 
-zonesurtech@core:~$ region
+zonesurtech@core:~$ location
 Costa Rica
 
-zonesurtech@core:~$ mission
-Build scalable systems that generate revenue and reduce operational friction.
+zonesurtech@core:~$ focus
+Building scalable SaaS ecosystems and AI-powered automation systems.
 ```
 
 ---
 
-<details>
-<summary>📂 stack --full</summary>
+# 🧠 ACTIVE ECOSYSTEM
 
-```bash
-Frontend  → Next.js / React / TypeScript / Tailwind
-Backend   → Node.js / FastAPI / Python
-Database  → MySQL / MongoDB
-Infra     → Docker / Linux / VPS Deployments
-Automation→ AI Bots / WhatsApp API / CRM Pipelines
-```
-
-</details>
+| System | Description | Status |
+|--------|------------|--------|
+| Zona Sur Tech | Multi-tenant SaaS platform | 🟢 Scaling |
+| DelgadoDevs | Web & automation services | 🟢 Active |
+| AI Automation | CRM + WhatsApp + Bots | 🟢 Production |
+| Electronic Billing CR | FastAPI invoicing backend | 🟢 Stable |
 
 ---
 
 # 📊 SYSTEM DASHBOARD
 
-## 🚀 Core Competency Matrix
+## Core Engineering
 
-Frontend Engineering  
-![Frontend](https://progress-bar.dev/92/?scale=100&title=Next.js%20%2F%20React&width=500&color=00ff99)
+Frontend  
+![Frontend](https://progress-bar.dev/92/?scale=100&title=Next.js%20%2F%20React%20%2F%20TS&width=500&color=00ff99)
 
-Backend Architecture  
+Backend  
 ![Backend](https://progress-bar.dev/95/?scale=100&title=Node%20%2F%20FastAPI&width=500&color=00ff99)
 
-AI Automation Systems  
+AI Automation  
 ![AI](https://progress-bar.dev/90/?scale=100&title=AI%20Workflows&width=500&color=00ff99)
 
-Database Systems  
-![DB](https://progress-bar.dev/88/?scale=100&title=SQL%20%2F%20NoSQL&width=500&color=00ff99)
-
-DevOps & Deployment  
-![DevOps](https://progress-bar.dev/85/?scale=100&title=Docker%20%2F%20Linux&width=500&color=00ff99)
+Infrastructure  
+![Infra](https://progress-bar.dev/88/?scale=100&title=Docker%20%2F%20Linux&width=500&color=00ff99)
 
 ---
 
-# 🏗 ACTIVE SYSTEMS
-
-| Module | Description | Status |
-|--------|------------|--------|
-| Zona Sur Tech SaaS | Multi-tenant business platform | 🟢 Scaling |
-| AI Automation Engine | CRM + WhatsApp + Bots | 🟢 Production |
-| Electronic Billing API | CR compliant backend | 🟢 Stable |
-| Admin Dashboards | RBAC + Secure Panels | 🟢 Active |
-
----
-
-# 📈 LIVE PERFORMANCE METRICS
+# 📈 LIVE METRICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santidelgados_&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Santyofc&show_icons=true&hide_border=true&theme=transparent" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=santidelgados_&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Santyofc&hide_border=true&theme=transparent" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=santidelgados_&theme=matrix&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Santyofc&no-frame=true&theme=algolia&row=1&column=6" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santidelgados_&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Santyofc&theme=github-compact&hide_border=true" />
 </p>
 
 ---
 
-# 🤖 automation --modules
+# 🤖 AUTOMATION MODULES
 
 ```bash
-AI Chatbots with escalation logic
+AI chatbots with escalation logic
 WhatsApp Cloud API integrations
 CRM workflow automation
-Electronic invoicing pipelines
+Electronic billing pipelines (Costa Rica)
 Multi-tenant SaaS dashboards
 Secure API-first backend systems
 ```
 
 ---
 
-# 💼 collaborate --init
+# 🌐 NETWORK
 
 ```bash
 website  → https://delgadodevs.com
-linkedin → TU_LINK
-email    → TU_EMAIL
-
-secure connection established.
+linkedin → https://linkedin.com/in/jose-santiago-delgado-leiva
+business → Zona Sur Tech
+status   → Open to collaborations
 ```
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:000000&height=120&section=footer" />
-</p>
 
 <p align="center">
   <strong>Zona Sur Tech — Digital Infrastructure That Scales.</strong>
