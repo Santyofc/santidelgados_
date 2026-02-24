@@ -1,68 +1,78 @@
-<!-- ================= DYNAMIC SVG HEADER ================= -->
+<!-- ================= CUSTOM SVG HEADER ================= -->
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=200&section=header&text=zonesurtech@core:~$&fontSize=30&fontColor=00ff99&animation=fadeIn" />
-    <source media="(prefers-color-scheme: light)" 
-      srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:e0e0e0&height=200&section=header&text=zonesurtech@core:~$&fontSize=30&fontColor=000000&animation=fadeIn" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=zonesurtech@core:~$&fontSize=30" />
-  </picture>
+  <svg width="100%" height="180" viewBox="0 0 1000 180" xmlns="http://www.w3.org/2000/svg">
+    <rect width="1000" height="180" fill="#0d1117"/>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+      fill="#00ff99" font-family="monospace" font-size="28">
+      zonesurtech@core:~$
+    </text>
+    <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle"
+      fill="#8b949e" font-family="monospace" font-size="16">
+      SaaS Architect · AI Systems Engineer · Costa Rica
+    </text>
+  </svg>
 </p>
 
 ```bash
-boot sequence initialized...
-loading SaaS architecture...
-initializing AI automation modules...
-system status: ONLINE ✔
+booting infrastructure...
+loading SaaS modules...
+AI engine initialized...
+status: ONLINE ✔
 ```
 
 ---
 
-# 🖥 TERMINAL PROFILE
+# 🧑‍💻 PROFILE
+
+<p align="center">
+  <img src="./assets/profile.jpg" width="180" style="border-radius:50%; box-shadow:0 0 25px #00ff99;" />
+</p>
 
 ```bash
-zonesurtech@core:~$ whoami
-José Santiago Delgado Leiva
+whoami
+→ José Santiago Delgado Leiva
 
-zonesurtech@core:~$ role
-SaaS Architect / AI Automation Engineer / Full Stack Developer
+role
+→ SaaS Architect / Full Stack Systems Builder
 
-zonesurtech@core:~$ location
-Costa Rica
+focus
+→ Multi-tenant SaaS · Automation · AI integration
 
-zonesurtech@core:~$ focus
-Building scalable SaaS ecosystems and AI-powered automation systems.
+company
+→ Zona Sur Tech
 ```
 
 ---
 
-# 🧠 ACTIVE ECOSYSTEM
+# 🏗 ADMIN PANEL OVERVIEW
 
-| System | Description | Status |
-|--------|------------|--------|
-| Zona Sur Tech | Multi-tenant SaaS platform | 🟢 Scaling |
-| DelgadoDevs | Web & automation services | 🟢 Active |
-| AI Automation | CRM + WhatsApp + Bots | 🟢 Production |
-| Electronic Billing CR | FastAPI invoicing backend | 🟢 Stable |
+<div align="center">
+
+| System | Status | Layer |
+|--------|--------|-------|
+| Zona Sur Tech SaaS | 🟢 Production | Multi-tenant |
+| AI Automation Systems | 🟢 Active | Workflow Engine |
+| Electronic Billing CR | 🟢 Stable | FastAPI Backend |
+| Admin Dashboards | 🟢 Scaling | RBAC Secure |
+
+</div>
 
 ---
 
-# 📊 SYSTEM DASHBOARD
-
-## Core Engineering
+# 📊 ENGINEERING DASHBOARD
 
 Frontend  
-![Frontend](https://progress-bar.dev/92/?scale=100&title=Next.js%20%2F%20React%20%2F%20TS&width=500&color=00ff99)
+![Frontend](https://progress-bar.dev/92/?scale=100&title=Next.js%20%2F%20React%20%2F%20TypeScript&width=500&color=00ff99)
 
 Backend  
 ![Backend](https://progress-bar.dev/95/?scale=100&title=Node%20%2F%20FastAPI&width=500&color=00ff99)
 
-AI Automation  
-![AI](https://progress-bar.dev/90/?scale=100&title=AI%20Workflows&width=500&color=00ff99)
-
 Infrastructure  
 ![Infra](https://progress-bar.dev/88/?scale=100&title=Docker%20%2F%20Linux&width=500&color=00ff99)
+
+System Architecture  
+![Arch](https://progress-bar.dev/90/?scale=100&title=API%20Design%20%2F%20RBAC%20%2F%20SaaS&width=500&color=00ff99)
 
 ---
 
@@ -86,27 +96,37 @@ Infrastructure
 
 ---
 
-# 🤖 AUTOMATION MODULES
+# 🖼 PROJECT VISUALS
 
-```bash
-AI chatbots with escalation logic
-WhatsApp Cloud API integrations
-CRM workflow automation
-Electronic billing pipelines (Costa Rica)
-Multi-tenant SaaS dashboards
-Secure API-first backend systems
-```
+<p align="center">
+  <img src="./assets/zst-preview.jpg" width="600"/>
+</p>
+
+<p align="center">
+  <img src="./assets/workstation.jpg" width="600"/>
+</p>
+
+---
+
+# 📸 INSTAGRAM FEED (AUTO UPDATED)
+
+Se actualiza automáticamente vía RSS bridge público:
+
+<p align="center">
+  <img src="https://rss.app/embed/v1/carousel/IGb3YFzVdUuF8dQn" width="800"/>
+</p>
+
+Instagram → https://www.instagram.com/santidelgados_
 
 ---
 
 # 🌐 NETWORK
 
-```bash
-website  → https://delgadodevs.com
-linkedin → https://linkedin.com/in/jose-santiago-delgado-leiva
-business → Zona Sur Tech
-status   → Open to collaborations
-```
+<p align="center">
+  <a href="https://zonasurtech.online">Website</a> •
+  <a href="https://www.linkedin.com/in/santi-delgados">LinkedIn</a> •
+  <a href="https://www.instagram.com/santidelgados_">Instagram</a>
+</p>
 
 ---
 
