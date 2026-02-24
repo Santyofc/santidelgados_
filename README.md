@@ -1,14 +1,14 @@
-<!-- ================= CUSTOM SVG HEADER ================= -->
+<!-- ================= HEADER ================= -->
 
 <p align="center">
-  <svg width="100%" height="180" viewBox="0 0 1000 180" xmlns="http://www.w3.org/2000/svg">
-    <rect width="1000" height="180" fill="#0d1117"/>
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-      fill="#00ff99" font-family="monospace" font-size="28">
+  <svg width="100%" height="160" viewBox="0 0 1000 160" xmlns="http://www.w3.org/2000/svg">
+    <rect width="1000" height="160" fill="#0d1117"/>
+    <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle"
+      fill="#00ff99" font-family="monospace" font-size="26">
       zonesurtech@core:~$
     </text>
-    <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle"
-      fill="#8b949e" font-family="monospace" font-size="16">
+    <text x="50%" y="65%" dominant-baseline="middle" text-anchor="middle"
+      fill="#8b949e" font-family="monospace" font-size="14">
       SaaS Architect · AI Systems Engineer · Costa Rica
     </text>
   </svg>
@@ -23,10 +23,10 @@ status: ONLINE ✔
 
 ---
 
-# 🧑‍💻 PROFILE
+# 👤 PROFILE
 
 <p align="center">
-  <img src="./assets/profile.jpg" width="180" style="border-radius:50%; box-shadow:0 0 25px #00ff99;" />
+  <img src="./profile.jpg" width="180" />
 </p>
 
 ```bash
@@ -34,10 +34,10 @@ whoami
 → José Santiago Delgado Leiva
 
 role
-→ SaaS Architect / Full Stack Systems Builder
+→ Full Stack Developer / SaaS Architect
 
 focus
-→ Multi-tenant SaaS · Automation · AI integration
+→ Multi-tenant SaaS · AI Automation · Backend Systems
 
 company
 → Zona Sur Tech
@@ -45,38 +45,41 @@ company
 
 ---
 
-# 🏗 ADMIN PANEL OVERVIEW
+# 🏗 ZONA SUR TECH ECOSYSTEM
 
-<div align="center">
+<p align="center">
+  <img src="./workstation.jpg" width="750"/>
+</p>
 
-| System | Status | Layer |
-|--------|--------|-------|
-| Zona Sur Tech SaaS | 🟢 Production | Multi-tenant |
-| AI Automation Systems | 🟢 Active | Workflow Engine |
-| Electronic Billing CR | 🟢 Stable | FastAPI Backend |
-| Admin Dashboards | 🟢 Scaling | RBAC Secure |
+Production-grade SaaS infrastructure focused on:
 
-</div>
+- Business process automation  
+- AI-powered workflows  
+- CRM & WhatsApp integrations  
+- Electronic billing systems (Costa Rica)  
+- Secure API-first architecture  
+
+🌐 https://zonasurtech.online  
 
 ---
 
-# 📊 ENGINEERING DASHBOARD
+# 📊 ENGINEERING STACK
 
 Frontend  
 ![Frontend](https://progress-bar.dev/92/?scale=100&title=Next.js%20%2F%20React%20%2F%20TypeScript&width=500&color=00ff99)
 
 Backend  
-![Backend](https://progress-bar.dev/95/?scale=100&title=Node%20%2F%20FastAPI&width=500&color=00ff99)
+![Backend](https://progress-bar.dev/95/?scale=100&title=Node.js%20%2F%20FastAPI&width=500&color=00ff99)
 
 Infrastructure  
-![Infra](https://progress-bar.dev/88/?scale=100&title=Docker%20%2F%20Linux&width=500&color=00ff99)
+![Infra](https://progress-bar.dev/88/?scale=100&title=Docker%20%2F%20Linux%20%2F%20VPS&width=500&color=00ff99)
 
-System Architecture  
+Architecture  
 ![Arch](https://progress-bar.dev/90/?scale=100&title=API%20Design%20%2F%20RBAC%20%2F%20SaaS&width=500&color=00ff99)
 
 ---
 
-# 📈 LIVE METRICS
+# 📈 GITHUB METRICS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Santyofc&show_icons=true&hide_border=true&theme=transparent" />
@@ -87,36 +90,8 @@ System Architecture
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Santyofc&no-frame=true&theme=algolia&row=1&column=6" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Santyofc&theme=github-compact&hide_border=true" />
 </p>
-
----
-
-# 🖼 PROJECT VISUALS
-
-<p align="center">
-  <img src="./assets/zst-preview.jpg" width="600"/>
-</p>
-
-<p align="center">
-  <img src="./assets/workstation.jpg" width="600"/>
-</p>
-
----
-
-# 📸 INSTAGRAM FEED (AUTO UPDATED)
-
-Se actualiza automáticamente vía RSS bridge público:
-
-<p align="center">
-  <img src="https://rss.app/embed/v1/carousel/IGb3YFzVdUuF8dQn" width="800"/>
-</p>
-
-Instagram → https://www.instagram.com/santidelgados_
 
 ---
 
